@@ -14,7 +14,7 @@ devtools::install_github('jalapic/ratingsR')
 ```
 
 #### Colley Method
-The basic Colley method uses `colley`.  Including spread in ratings uses `colley_spread`. Including ties in ratings uses`colley_ties`.  Weighting for time of win uses `colley_weight`.
+The basic Colley method uses `colley`.  Including spread in ratings uses `colley_spread`. Including ties in ratings uses `colley_ties`.  Weighting for time of win uses `colley_weight`.
 
 
 #### Massey Method
