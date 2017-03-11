@@ -3,11 +3,6 @@ Ranking and Rating Methods
 
 This package includes functions for calculating the Colley and Massey ratings for win-loss data.  A detailed vignette is [available here](http://rpubs.com/jalapic/ratingsR).
 
-#### Install
-
-ratingsR can be installed directly from GitHub.
-
-```devtools::install_github('jalapic/ratingsR')```
 
 
 #### Install 
