@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(magrittr, '%>%')
+importFrom(reshape2, 'acast')
+importFrom("stats", "aggregate")
+import('dplyr')

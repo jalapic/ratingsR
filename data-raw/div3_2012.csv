@@ -1,0 +1,6 @@
+"Johns Hopkins","Franklin & Marshall","Gettysburg","Dickinson","McDaniel"
+NA,"0","1","1","1"
+"1",NA,"0","1","1"
+"0","1",NA,"0","1"
+"0","0","1",NA,"1"
+"0","0","0","0",NA
