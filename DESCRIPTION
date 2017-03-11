@@ -12,9 +12,11 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Suggests:
+    knitr,
+    rmarkdown
 RoxygenNote: 5.0.1
 Imports:
-    compete,
     dplyr,
     magrittr,
     reshape2
+VignetteBuilder: knitr
